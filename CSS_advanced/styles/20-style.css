@@ -197,7 +197,7 @@ ul.row{
 }
 
 .row::after{
-	grid-row: 0 / 0;
+	grid-row: auto;
 	display: table;
 	clear: both;
 }
