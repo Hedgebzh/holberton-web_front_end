@@ -196,7 +196,7 @@ ul.row{
 	text-align: right;
 }
 
-.row{
+.row::after{
 	grid-row: none;
 	display: table;
 	float: none;
