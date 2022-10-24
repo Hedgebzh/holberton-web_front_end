@@ -1,6 +1,9 @@
-html{
+/* the behavior of the scroll to be as fluid as possible */
+html {
 	scroll-behavior: smooth;
 }
+
+/* Css Style */
 
 :root{
 	--color-primary: #d73953;
