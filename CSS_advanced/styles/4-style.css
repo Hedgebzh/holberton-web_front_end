@@ -11,7 +11,7 @@ html{
 	--text-color: var(--color-black);
 }
 
-body, a{
+body, a {
 	color: var(--color-black);
 }
 
