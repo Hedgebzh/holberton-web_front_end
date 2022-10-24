@@ -199,6 +199,6 @@ ul.row{
 .row::after{
 	grid-template-rows: none;
 	display: table;
-	float: none;
+	clear: both;
 }
 
