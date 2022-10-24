@@ -197,7 +197,7 @@ ul.row{
 }
 
 .row::after{
-	grid-template-rows: none;
+	grid-row: 0 / 0;
 	display: table;
 	clear: both;
 }
