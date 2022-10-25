@@ -192,13 +192,13 @@ a:active{
 }
 
 .section-hero{
-	background-size: 2rem;
+	background-size: flex;
 	width: 90rem;
 	height: auto;
 }
 
 .section-hero .section-title{
-	margin-bottom: 50rem;
+	margin-bottom: 5rem;
 }
 
 .section-hero .section-inner{
