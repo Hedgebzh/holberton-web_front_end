@@ -189,6 +189,20 @@ a:active{
 	color: var(--color-primary);
 }
 
+.card-testimonial .card-quote{
+	position: inherit;
+}
+
+.card-testimonial .card-quote::before{
+	content: \201C;
+	position: absolute;
+	top: -4.5rem;
+	left: -1rem;
+	color: #efeded;
+	font-size: 10rem;
+	z-index: -1;
+}
+
 .card-work .card-outer{
 	position: relative;
 	overflow: hidden;
@@ -209,7 +223,7 @@ a:active{
 	z-index: 1;
 }
 
-.card-work:hover {
+.card-work:hover .card-inner{
 	background-color: rgba(0, 0, 0, 0.7);
 }
 
