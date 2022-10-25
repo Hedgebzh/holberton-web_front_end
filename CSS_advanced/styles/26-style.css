@@ -157,11 +157,11 @@ a:active{
 .card-testimonial .card-avatar{
 	border-radius: 50%;
 	width: 10rem;
-	height: 10 rem;
+	height: 10rem;
 }
 
 .card-testimonial .card-quote cite{
-	transform-style: block;
+	display: block;
 	padding-top: 10rem;
 	color: var(--color-primary);
 }
