@@ -216,7 +216,7 @@ ul.row{
 	clear: both;
 }
 
-.footer-adress{
+.footer-address{
 	color: var(--text-color);
 }
 
@@ -224,6 +224,6 @@ ul.row{
 	display: block;
 }
 
-.social-link > svg{
+svg.social-link{
 	color: var(--text-color)
 }
