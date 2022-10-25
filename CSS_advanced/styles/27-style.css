@@ -192,7 +192,7 @@ a:active{
 }
 
 .section-hero{
-	background-size: flex;
+	display: flex;
 	width: 90rem;
 	height: auto;
 }
