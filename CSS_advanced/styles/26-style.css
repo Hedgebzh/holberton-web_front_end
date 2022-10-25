@@ -161,7 +161,7 @@ a:active{
 }
 
 .card-testimonial .card-quote cite{
-	display: block;
+	transform-style: block;
 	padding-top: 10rem;
 	color: var(--color-primary);
 }
